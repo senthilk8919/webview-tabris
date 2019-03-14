@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.mysmarthome.pubsub" version="0.1.0">
+  <name>Omah Pinter</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="rusminto900@gmail.com">
+    rusminto
+  </author>
+  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
+</widget>
