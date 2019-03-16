@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.mysmarthome.pubsub" version="0.1.0">
-  <name>Omah Pinter</name>
+<widget id="example.sse.mqtt.tabris" version="0.1.0">
+  <name>omahPinter</name>
   <description>
     Example Tabris.js App
   </description>

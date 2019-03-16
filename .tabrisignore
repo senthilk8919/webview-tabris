@@ -1,4 +1,6 @@
-.eslintrc
+src/
+tslint.json
+tsconfig.json
 .gitignore
 .vscode/
 README.md

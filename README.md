@@ -1,5 +1,4 @@
 # sse-mqtt-tabris
-# mysmarthome
 
 ## Run
 
