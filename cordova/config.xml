@@ -2,7 +2,7 @@
 <widget id="example.sse.mqtt.tabris" version="0.1.0">
   <name>Skynet</name>
   <description>
-    Example Tabris.js App
+     App
   </description>
   <author email="info@skynetsoftware.ga">
     rusminto
