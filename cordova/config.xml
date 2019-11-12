@@ -5,7 +5,7 @@
      App
   </description>
   <author email="info@skynetsoftware.ga">
-    rusminto
+    skynetsoftware
   </author>
   <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
 </widget>
